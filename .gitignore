@@ -1,0 +1,6 @@
+```txt
+.DS_Store
+*.log
+*.smcl
+.ipynb_checkpoints/
+__pycache__/
